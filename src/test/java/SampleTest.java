@@ -19,6 +19,6 @@ public class SampleTest {
 		int b = 2;
 		int c;
 		
-		assertTrue(a - b ==-1);
+		assertTrue(a - b ==-2);
 	}
 }
